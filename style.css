@@ -1,0 +1,40 @@
+
+body {
+    background-color: bisque;
+    color: black; 
+    display: flex;
+    min-height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    border-radius: 15px;
+   
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    box-shadow: 0 10px 10px rgba(0,0,0,.3);
+    margin: 5px;
+}
+
+
+h1{
+    text-transform: uppercase;
+    text-align: left;
+    font-size: 20px;
+
+}
+#book-form
+#book-table {
+    display: flex;
+    flex-direction: column;
+    
+       
+}
+ .u-full-width {
+    width: 100%;
+    padding: 20px;
+    margin: 10px;
+
+}
